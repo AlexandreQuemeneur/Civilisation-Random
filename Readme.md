@@ -49,10 +49,8 @@
 - Suède
 - Sumer
 - Zoulous
-<<<<<<< HEAD
-=======
 
->>>>>>> 527c7c8d70c6a5504b615d782222195f83982112
+
 Work in progress
 
 Civilisation 6 est un jeu édité par [2K games](https://www.2k.com/en-US/). "Générateur aléatoire de civilisation" est un site non-officiel sans aucun lien avec 2K games.
