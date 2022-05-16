@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: #354538;   
+}
+header{
+    background-image: url(../images/civilisation.jpg);
+    width: 100%;
+    padding-bottom: 13%;
+    padding-top: 1%;
+    border-bottom: 5px solid gold;
+}
+h1{
+    margin-left: 37%;
+    margin-right: 37%;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: #06508d;
+    border-radius: 5px;
+    border: 2px solid gold;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/fondbg.jpg);
+    padding-bottom: 10%;
+}
+.alignement{
+    align-self: center;
+    justify-self: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    width: 800px;
+    margin-top: -40px;
+    background-image: url(../images/map2.jpg);
+    background-size: cover;
+    border-radius: 5px;
+}
+.contenue{
+    display: grid;
+    text-align: center;
+    margin-top: 20px;
+    border: 3px solid white;
+    border-radius: 5px;
+    height: 650px;
+    width: 700px;
+    color: aliceblue;
+}
+button{
+    color: #06508d;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #21a9f8c5;
+}
+footer{
+    text-align: center;
+    border-top: 5px solid gold;    
+}
+a{
+    text-decoration: none;
+    color: red;
+}
